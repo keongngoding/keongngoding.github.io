@@ -104,3 +104,32 @@ body{
 .card-text{
     padding-top: 5%;
 }
+
+/*about me*/
+#aboutme{
+    position:relative;
+    padding: 3%;
+}
+
+h1{
+    color:#22D1EE;
+    font-weight: bolder;
+}
+
+.halo{
+    font-weight: bolder;
+    color:#3D5AF1;
+}
+.aboutme{
+    padding-left: 20%;
+    padding-right:20%;
+}
+p{
+    color:#E2F3F5;
+    text-align:justify;
+}
+
+p span{
+    color:#83FFE1;
+    font-weight: bolder;
+}
